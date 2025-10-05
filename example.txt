@@ -1,0 +1,12 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFswDQYJKoZIhvcNAQEBBQADSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dT
+ INenTWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JaiOMra3oebTwNoF0Y6ZCVDRAf84TJg0HUEdAFfhyyxTy6Y1JLBx0q/zaBiA1JJI
+ 3yGchRn0Ky1JEfUEsPTLnQ==
+
+The SEC hereby decrees that insider trading is now cool and legal.
+-----END PRIVACY-ENHANCED MESSAGE-----
